@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T08:02:14.840Z",
+  "lastUpdated": "2026-07-13T08:51:49.921Z",
   "zkvms": {
     "airbender": {
       "isa": "RV32IM",
@@ -120,12 +120,7 @@
         "total": 318,
         "passRate": "99.1"
       },
-      "standard": {
-        "passed": 70,
-        "failed": 1,
-        "total": 72,
-        "passRate": "97.2"
-      }
+      "standard": null
     }
   }
 }
